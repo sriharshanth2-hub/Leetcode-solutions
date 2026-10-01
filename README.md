@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Array
 |  |
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
