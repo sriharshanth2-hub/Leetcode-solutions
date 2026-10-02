@@ -39,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0118-pascals-triangle) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
