@@ -9,6 +9,9 @@ class Solution:
                 total += digit **2
                 n //= 10
             n = total
-        return n == 1
+        if n == 1:
+            return True
+        else:
+            return False
 
                 
