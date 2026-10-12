@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## String
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
