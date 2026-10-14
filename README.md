@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Greedy
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -116,11 +118,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -149,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0412-fizz-buzz) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
