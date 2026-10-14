@@ -1,8 +1,6 @@
 class Solution:
     def singleNumber(self, nums: list[int]) -> int:
-        numbers = {}
+        s = 0
         for i in nums :
-            numbers[i] = numbers.get(i,0)+1
-        for key,count in numbers.items() :
-            if count ==  1 :
-                return key
+            s = i^s
+        return s
