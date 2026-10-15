@@ -6,7 +6,7 @@ class Solution:
         for i in nums :
             prefixsum += i
             if prefixsum - k in count :
-                result += count.get(prefixsum-k)
+                result += count[prefixsum-k]
             count[prefixsum] = count.get(prefixsum, 0) + 1
         return result
         
