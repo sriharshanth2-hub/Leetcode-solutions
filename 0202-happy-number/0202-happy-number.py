@@ -11,7 +11,7 @@ class Solution:
             n = total
         if n == 1:
             return True
-        else:
+        else :
             return False
 
                 
