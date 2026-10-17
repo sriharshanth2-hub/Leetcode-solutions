@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0344-reverse-string) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0268-missing-number) |
