@@ -4,6 +4,7 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         n = len(nums)
-        k = k%n
+        if k > n :
+            k = k % n
         nums[:] = nums[n-k:] + nums[:n-k]
         
