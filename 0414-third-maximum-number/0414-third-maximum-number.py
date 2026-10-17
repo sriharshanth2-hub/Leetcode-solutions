@@ -1,8 +1,8 @@
 class Solution:
     def thirdMax(self, nums: list[int]) -> int:
-        s=set(nums)
-        s = sorted(s,reverse = True)
-        if len(s)<3:
-            return max(s)
+        a =set(nums)
+        a = sorted(a,reverse = True)
+        if len(a)<3:
+            return max(a)
         else:
-            return s[2]
+            return a[2]
