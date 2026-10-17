@@ -6,5 +6,5 @@ class Solution:
         n = len(nums)
         if k > n :
             k = k % n
-        nums[:] = nums[n-k:] + nums[:n-k]
+        nums[:] = nums[-k:] + nums[:-k]
         
