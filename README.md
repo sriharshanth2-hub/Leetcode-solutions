@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## Divide and Conquer
