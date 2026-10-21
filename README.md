@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0461-hamming-distance) |
 ## Floyd's Cycle Finding Algorithm
