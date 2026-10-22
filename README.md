@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Math
