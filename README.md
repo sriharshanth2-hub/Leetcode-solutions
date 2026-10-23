@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 ## Stack
 |  |
 | ------- |
