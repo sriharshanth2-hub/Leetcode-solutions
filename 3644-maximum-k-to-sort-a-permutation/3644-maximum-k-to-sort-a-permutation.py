@@ -1,12 +1,12 @@
 class Solution:
     def sortPermutation(self, nums: list[int]) -> int:
-        ans = None
+        sol = None
         
         for i, val in enumerate(nums):
             if val != i:
-                if ans is None:
-                    ans = val
+                if sol is None:
+                    sol = val
                 else:
-                    ans &= val
+                    sol &= val
                     
-        return 0 if ans is None else ans
+        return 0 if sol is None else sol
