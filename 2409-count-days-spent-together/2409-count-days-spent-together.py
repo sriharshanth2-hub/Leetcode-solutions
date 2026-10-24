@@ -1,13 +1,12 @@
 from datetime import datetime
 class Solution:
     def countDaysTogether(self, arriveAlice: str, leaveAlice: str, arriveBob: str, leaveBob: str) -> int:
-        date1 = datetime.strptime(arriveAlice,"%m-%d")
-        date2 = datetime.strptime(leaveAlice,"%m-%d")
-        date3 = datetime.strptime(arriveBob,"%m-%d")
-        date4 = datetime.strptime(leaveBob,"%m-%d")
-        d1 = max(date1,date3)
-        d2 = min(date2,date4)
-        if d1 > d2:
-            return 0
+        days = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
 
-        return (d2 - d1).days + 1
+        def convert(date):
+            m, d = map(int, date.split("-"))
+            return sum(days[:m - 1]) + d
+
+        start = max(convert(arriveAlice), convert(arriveBob))
+        end = min(convert(leaveAlice), convert(leaveBob))
+        return max(0, end - start + 1)
