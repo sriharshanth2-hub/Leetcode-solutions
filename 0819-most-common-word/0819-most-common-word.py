@@ -3,14 +3,10 @@ class Solution:
         paragraph = paragraph.lower()
         for ch in "!?',;.":
             paragraph = paragraph.replace(ch, " ")
-        x = paragraph.split()
+        words = paragraph.split()
         count = {}
-        for i in x :
-            count[i] = count.get(i,0)+1
-        maxi = 0
-        ans = ""
-        for i in x :
-            if i not in banned and maxi < count[i] :
-                maxi = count[i]
-                ans = i
-        return ans
+        for word in words:
+            if word not in banned:
+                count[word]=count.get(word,0)+1 
+
+        return max(count,key=count.get)
