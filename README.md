@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0709-to-lower-case) |
+| [0819-most-common-word](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0819-most-common-word) |
 | [2409-count-days-spent-together](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
 ## Array
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0704-binary-search) |
+| [0819-most-common-word](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Greedy
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0819-most-common-word](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0819-most-common-word) |
 ## Sliding Window
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0819-most-common-word](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0819-most-common-word) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
