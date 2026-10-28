@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0728-self-dividing-numbers) |
+| [1486-xor-operation-in-an-array](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2409-count-days-spent-together](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
 ## Stack
 |  |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [1486-xor-operation-in-an-array](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Floyd's Cycle Finding Algorithm
 |  |
