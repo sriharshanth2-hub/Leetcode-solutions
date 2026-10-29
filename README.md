@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0520-detect-capital) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0908-smallest-range-i](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0908-smallest-range-i) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Counting
