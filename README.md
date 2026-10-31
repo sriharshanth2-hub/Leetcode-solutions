@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0819-most-common-word) |
 | [0925-long-pressed-name](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [2409-count-days-spent-together](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [3498-reverse-degree-of-a-string](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [3498-reverse-degree-of-a-string](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
 | ------- |
