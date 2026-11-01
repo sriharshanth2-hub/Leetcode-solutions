@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0925-long-pressed-name](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0925-long-pressed-name) |
+| [2396-strictly-palindromic-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0908-smallest-range-i](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [1486-xor-operation-in-an-array](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
+| [2396-strictly-palindromic-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/2469-convert-the-temperature) |
 ## Stack
@@ -319,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
