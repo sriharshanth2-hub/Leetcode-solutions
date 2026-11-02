@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0908-smallest-range-i](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3895-count-digit-appearances](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3895-count-digit-appearances](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3895-count-digit-appearances) |
 ## Stack
 |  |
 | ------- |
