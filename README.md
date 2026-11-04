@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0179-largest-number) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0189-rotate-array) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0415-add-strings) |
