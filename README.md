@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0908-smallest-range-i](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0908-smallest-range-i) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3895-count-digit-appearances](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3895-count-digit-appearances) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Number Theory
 |  |
 | ------- |
