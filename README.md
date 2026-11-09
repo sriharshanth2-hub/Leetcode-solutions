@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3668-restore-finishing-order](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3895-count-digit-appearances](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0819-most-common-word](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0819-most-common-word) |
+| [3668-restore-finishing-order](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3668-restore-finishing-order) |
 ## Sliding Window
 |  |
 | ------- |
