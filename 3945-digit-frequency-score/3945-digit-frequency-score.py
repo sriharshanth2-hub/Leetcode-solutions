@@ -1,11 +1,11 @@
 class Solution:
     def digitFrequencyScore(self, n: int) -> int:
-        count = {}
-        total = 0
-        z = str(n)
-        y = set(z)
-        for i in z :
-            count[i] = count.get(i,0)+1
-        for i in y :
-            total += count[i]*int(i)
-        return total
+        sn = str(n)
+        score = 0
+        a = set(sn)
+
+        for i in a:
+            c = sn.count(i)
+            score += (c * int(i))
+
+        return score
