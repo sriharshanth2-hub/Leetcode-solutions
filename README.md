@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0819-most-common-word](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0819-most-common-word) |
 | [3668-restore-finishing-order](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3668-restore-finishing-order) |
+| [3945-digit-frequency-score](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Sliding Window
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3895-count-digit-appearances](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3895-count-digit-appearances) |
+| [3945-digit-frequency-score](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Stack
 |  |
 | ------- |
