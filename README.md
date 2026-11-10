@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0908-smallest-range-i](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1512-number-of-good-pairs](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3668-restore-finishing-order](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0819-most-common-word](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0819-most-common-word) |
+| [1512-number-of-good-pairs](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3668-restore-finishing-order](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Sliding Window
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0908-smallest-range-i](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [1486-xor-operation-in-an-array](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/2469-convert-the-temperature) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0819-most-common-word) |
+| [1512-number-of-good-pairs](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
