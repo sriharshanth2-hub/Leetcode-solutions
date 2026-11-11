@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0925-long-pressed-name](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [2396-strictly-palindromic-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+| [3794-reverse-string-prefix](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3794-reverse-string-prefix](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Array
 |  |
 | ------- |
