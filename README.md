@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1512-number-of-good-pairs](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3668-restore-finishing-order](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
