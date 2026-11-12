@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1512-number-of-good-pairs](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1920-build-array-from-permutation](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3668-restore-finishing-order](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3668-restore-finishing-order) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [1920-build-array-from-permutation](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Counting
