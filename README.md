@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1512-number-of-good-pairs](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [2574-left-and-right-sum-differences](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3668-restore-finishing-order](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3668-restore-finishing-order) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2574-left-and-right-sum-differences](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Number Theory
 |  |
 | ------- |
