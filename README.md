@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3516-find-closest-person](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Counting
@@ -382,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+## Game Theory
+|  |
+| ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
