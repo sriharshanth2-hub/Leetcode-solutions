@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2409-count-days-spent-together](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [3110-score-of-a-string](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3794-reverse-string-prefix) |
