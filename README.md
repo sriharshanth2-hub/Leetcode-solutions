@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Memoization
@@ -389,4 +392,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sriharshanth2-hub/Leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
